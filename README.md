@@ -2,7 +2,7 @@
 
 > Generate your official Hacker House Goa 2026 Builder ID Pass, customize your profile & role, upload your builder photo, and download/share your pass with **#FrameInGoa**.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success?style=for-the-badge&logo=vercel)](https://hacker-house-goa-2026-xi.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success?style=for-the-badge&logo=vercel)]([https://hacker-house-goa-2026-xi.vercel.app](https://github.com/TarunScript/hacker-house-goa))
 [![GitHub License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ---
